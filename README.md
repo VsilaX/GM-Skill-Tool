@@ -20,7 +20,7 @@ exec("mod/GM-skill-tool/init.cs");
 
 -Press ‘Alt + Y’ in-game to open -Press ‘Alt + U’ to toggle GM Mode (set GM password first!)
 
-![Example](https://i.gyazo.com/b8f7e2eddd4d25ec4229a6f6cc6e2364.png)
+![Example](https://i.gyazo.com/582a953377360c092509e60768736441.png)
 
 
 Full Credit Goes to Original Creator
