@@ -112,7 +112,7 @@ function vsGMReloadGMTools(%val)
 }
 
 // Sets reload to F11 key
-moveMap.bind(keyboard, "F4", vsGMReloadGMTools);
+moveMap.bind(keyboard, "F6", vsGMReloadGMTools);
 
 function vsGMListItems()
 {
